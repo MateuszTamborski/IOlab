@@ -1,3 +1,4 @@
+//Komentarz
 public class HelloWorld {
 
     public static void main(String[] args) {
@@ -6,7 +7,7 @@ public class HelloWorld {
         System.out.println("Hello, World!");
 	float b = 2;
 	System.out.println("Hello Sailor!");
-	float c = 3;
+	//Trzecia zmiana
     }
 
 }
